@@ -1,7 +1,7 @@
 # OOPs-CTA-1-Team-8
-Our team details are as follows:<br>
+<br>Our team details are as follows:<br>
 Team Number #08<br>
-Team Name: Metaquest<br>
+Team Name: Metaquest<br><br>
 Team Members          ||         USN<br> 
 Rahul V Bandekar              2SD21CS071<br> 
 Sairohitha Balam              2SD21CS077<br>
