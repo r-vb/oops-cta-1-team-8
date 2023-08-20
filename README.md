@@ -1,4 +1,4 @@
-# oops-cta-1-team-8
+# OOPs-CTA-1-Team-8
 Our team details are as follows:<br>
 Team Number #08<br>
 Team Name: Metaquest<br>
